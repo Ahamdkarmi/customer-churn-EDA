@@ -142,8 +142,8 @@ python main.py
 ###  Project Files
 
 * [📄 Source Code (main.py)](src/main.py)
-* [📊 Dataset (Customer_data.csv)](./Customer_data.csv)
-* [📝 Report (Report.pdf)](./Report.pdf)
+* [📊 Dataset (Customer_data.csv)](data/Customer_data.csv)
+* [📝 Report (Report.pdf)](doc/Report.pdf)
 
 ---
 
